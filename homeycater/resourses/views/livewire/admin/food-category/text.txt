@@ -1,0 +1,55 @@
+id
+user_id
+intro
+gender
+neighborhood
+town
+city
+phone
+email
+how_many_times_hire
+notice
+speciality
+pernal_pic
+text message (description)
+
+
+
+rating (review)
+
+
+menu
+    dishes
+    price
+
+
+food picture (gallery)
+
+return_policy (same for all)
+
+
+payment_accept
+delivery_options
+
+minimum_order
+maximum_order
+
+
+covid_detail
+
+covid_19_vaccinated
+cooking_place_cleaniess (1-10)
+Highen_care
+    use_golves
+    face_mask
+    head_hair_cover
+
+picture_of_dishes
+kitechen
+personal
+
+video
+    limited_size
+    number
+
+
